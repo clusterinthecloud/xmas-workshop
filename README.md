@@ -3,26 +3,30 @@
 ## Thursday 10th + Friday 11th December 2020
 
 This is a two-day online hands-on workshop delivered in partnership
-with the Bristol RSE group and AWS. This is aimed at Research Software Engineers
+with the [Bristol RSE group](https://www.bristol.ac.uk/acrc/research-software-engineering/)
+and [AWS](https://aws.amazon.com). This is aimed at Research Software Engineers
 and Researchers with the goals of;
 
-* learning how to port and optimise applications for the cloud
-* learn how to use cloud technologies, such as terraform, deploy 
-  software-defined infrastructure
-* to get real, hands-on experience of developing and deploying
+* learning how to port and optimise applications for the cloud,
+* using portable cloud technologies, such as terraform, to 
+  configure and deploy infrastructure-as-code applications,
+* gaining real hands-on experience of developing
   cloud applications in partnership with experienced
   RSEs and AWS solutions architects
 
 Attendees will be given free AWS accounts during the workshop, with 
 plenty of free credits to support all of the hackathons and break-out
-groups that will take place. Understanding software-defined hardware 
-and infrastructure-as-code are valuable skills. They will enable
-you to bridge from software to hardware, and to build applications
-that match hardware to software. This workshop will have provide 
-real valuable hands-on experience of deploying and developing cloud 
-applications. You will gain useful knowledge of cross-platform tools 
-such as terraform and ansible, as well as exploring the potential 
-of the AWS Cloud API. 
+groups that will take place. At Bristol we believe that infrastructure-as-code 
+is a valuable skill for RSEs to acquire. Being able to build 
+software-defined infrastructure enables you to bridge the gap from 
+software to hardware, and to co-design modern applications that
+match hardware to software needs.
+
+This workshop will have give you real hands-on experience of deploying and developing cloud 
+applications. You will be guided by Bristol RSEs and AWS Solutions
+Architects, and will gain useful knowledge of cross-platform tools 
+such as terraform and ansible, in addition to exploring the power
+of the AWS Cloud.
 
 Places are limited, so if you are interested then please sign up
 soon. The workshop is free for Research Software Engineers or 
@@ -31,15 +35,16 @@ Researchers working in academia or the public sector.
 ## [Sign up here](https://awsresearchworkshop.splashthat.com)
 
 The workshop will feature a small number of talks that will set
-the scene for a number of hackathons. These will be based on top
-of [Cluster-in-the-Cloud](https://cluster-in-the-cloud.readthedocs.io),
-a solution that simplifies the creation of on-demand HPC clusters
-in the cloud.
+the scene for a number of hackathons. These will be based on 
+[Cluster-in-the-Cloud](https://cluster-in-the-cloud.readthedocs.io),
+an infrastructure-as-code application that simplifies the creation
+and management of on-demand HPC clusters in the cloud.
 
 ## Day 1 - Running your applications on Cloud HPC
 
 Work with Bristol RSEs and AWS Solutions Architects to port and benchmark 
-applications that matter to you to the cloud. You will get full access
+applications in the cloud. Work on applications that matter to you,
+or from a choose from a set of established HPC codes. You will get full access
 to a range of different processors, including AWS's ARM64 Gravitons. 
 We will help you compile and optimise your applications for these processors,
 with the aim of benchmarking the code, and optimising price/performance
@@ -83,7 +88,7 @@ in cloud. Choose from;
    storage to cluster-in-the-cloud, and benchmark
    the performance of different storage solutions.
 
-You are free to choose one of these workshops, or to continue your
+You are free to choose any one of these hackathons, or to continue your
 work from day 1 to compile, profile, optimise and benchmark your
 application across a range of different AWS hardware.
 
@@ -94,4 +99,3 @@ If you have any questions please get in contact with
 via email or direct on the RSE Slack.
 
 ## [Sign up here](https://awsresearchworkshop.splashthat.com)
-
