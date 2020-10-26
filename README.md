@@ -1,6 +1,6 @@
 # Christmas-in-the-Cloud workshop
 
-## Thursday 10th + Friday 11th December 2020
+## Thursday 10th + Friday 11th December 2020
 
 This is a two-day online hands-on workshop delivered in partnership
 with the Bristol RSE group and AWS. This is aimed at Research Software Engineers
@@ -28,7 +28,7 @@ Places are limited, so if you are interested then please sign up
 soon. The workshop is free for Research Software Engineers or 
 Researchers working in academia or the public sector.
 
-## [Sign up here](https://awsresearchworkshop.splashthat.com)
+## [Sign up here](https://awsresearchworkshop.splashthat.com)
 
 The workshop will feature a small number of talks that will set
 the scene for a number of hackathons. These will be based on top
@@ -36,7 +36,7 @@ of [Cluster-in-the-Cloud](https://cluster-in-the-cloud.readthedocs.io),
 a solution that simplifies the creation of on-demand HPC clusters
 in the cloud.
 
-## Day 1 - Running your applications on Cloud HPC
+## Day 1 - Running your applications on Cloud HPC
 
 Work with Bristol RSEs and AWS Solutions Architects to port and benchmark 
 applications that matter to you to the cloud. You will get full access
@@ -93,5 +93,5 @@ If you have any questions please get in contact with
 [Christopher Woods](mailto:christopher.woods@bristol.ac.uk),
 via email or direct on the RSE Slack.
 
-## [Sign up here](https://awsresearchworkshop.splashthat.com)
+## [Sign up here](https://awsresearchworkshop.splashthat.com)
 
