@@ -65,28 +65,28 @@ the opportunity to work with Bristol RSEs and AWS Solutions
 Architects to tackle real software development challenges
 in cloud. Choose from;
 
-1. Build a solution to automatically profile and benchmark HPC workloads,
-   with the aim of simplifying the process of choosing the best processor(s)
-   to optimise cost versus performance.
-
-2. Learn how to manage the AWS Spot Market by building support
+1. Learn how to manage the AWS Spot Market by building support
    for spot into cluster-in-the-cloud. This will involve involve
    learning how to interact with the AWS API, and how to manage
    cloud instances in slurm and terraform.
 
-3. Learn about and benchmark AWS Elastic Fabric Adapter (EFA) for high
-   speed networking in HPC. This will involve adding support
-   for EFA to cluster-in-the-cloud, during which you will learn how to build and 
-   manage software-defined-networks in terraform, and then
-   configure systems using ansible. Finally, benchmark your
-   own applications to see how EFA improves scaling performance.
+2. Build a solution to automatically profile and benchmark HPC workloads,
+   with the aim of simplifying the process of choosing the best processor(s)
+   to optimise cost versus performance.
 
-4. Implement a persistent high-performance shared storage 
+3. Implement a persistent high-performance shared storage 
    layer on top of compute fleets. Learn how to build
    and manage persistent storage, and how to connect to it
    from ephemeral clusters. Add support for persistent
    storage to cluster-in-the-cloud, and benchmark
    the performance of different storage solutions.
+
+4. Learn about and benchmark AWS Elastic Fabric Adapter (EFA) for high
+   speed networking in HPC. This will involve adding support
+   for EFA to cluster-in-the-cloud, during which you will learn how to build and 
+   manage software-defined-networks in terraform, and then
+   configure systems using ansible. Finally, benchmark your
+   own applications to see how EFA improves scaling performance.
 
 You are free to choose any one of these hackathons, or to continue your
 work from day 1 to compile, profile, optimise and benchmark your
